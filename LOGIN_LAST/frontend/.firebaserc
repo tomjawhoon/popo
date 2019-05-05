@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "login-with-metamask",
+    "PSUCOIN": "login-psucoin"
+  }
+}
